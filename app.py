@@ -1,47 +1,46 @@
 import streamlit as st
 import json
 import random
-import os
 
-# Caminho seguro para o arquivo JSON
-caminho = os.path.join(os.path.dirname(__file__), "perguntas.json")
-
-# Carrega perguntas
-with open(caminho, "r", encoding="utf-8") as f:
+# Carrega o banco de perguntas diretamente
+with open("perguntas.json", "r", encoding="utf-8") as f:
     perguntas = json.load(f)
 
-# Seleciona uma pergunta aleatória
+# Escolhe uma pergunta aleatória
 if "pergunta_atual" not in st.session_state:
     st.session_state.pergunta_atual = random.choice(perguntas)
     st.session_state.resposta_usuario = None
-    st.session_state.confirmado = False
+    st.session_state.enviou_resposta = False
 
 pergunta = st.session_state.pergunta_atual
 
-# Exibe pergunta
-st.title("Quiz CFP - Simulado Interativo")
+st.title("📚 Quiz de Simulado - CFP Módulo 4")
 st.markdown(f"**{pergunta['pergunta']}**")
 
-# Exibe alternativas
-alternativa_escolhida = st.radio("Escolha uma alternativa:", pergunta["alternativas"], index=None)
+# Exibe as alternativas
+resposta_escolhida = st.radio("Escolha uma alternativa:", pergunta["alternativas"], index=None)
 
-# Botão de confirmação
-if st.button("Confirmar resposta") and alternativa_escolhida:
-    st.session_state.resposta_usuario = alternativa_escolhida
-    st.session_state.confirmado = True
+# Botão para confirmar a resposta
+if st.button("✅ Confirmar resposta") and resposta_escolhida:
+    st.session_state.resposta_usuario = resposta_escolhida
+    st.session_state.enviou_resposta = True
 
-# Exibe resultado apenas após confirmação
-if st.session_state.confirmado:
-    resposta_correta = next((alt for alt in pergunta["alternativas"] if alt.startswith(pergunta["resposta_correta"] + ")")), None)
+# Exibe o resultado
+if st.session_state.enviou_resposta:
+    resposta_correta = pergunta["resposta_correta"]
 
-    if st.session_state.resposta_usuario == resposta_correta:
-        st.success(f"✅ Resposta correta: {resposta_correta}")
-    else:
-        st.error(f"❌ Resposta incorreta: {st.session_state.resposta_usuario}")
-        st.success(f"✅ Resposta correta: {resposta_correta}")
+    # Destaca a resposta correta em verde
+    for alternativa in pergunta["alternativas"]:
+        if alternativa.startswith(resposta_correta):
+            st.success(f"✅ {alternativa}")
+        elif alternativa == st.session_state.resposta_usuario:
+            st.error(f"❌ {alternativa}")
+        else:
+            st.write(alternativa)
 
-    if st.button("Próxima pergunta"):
+    # Botão para próxima pergunta
+    if st.button("➡️ Próxima pergunta"):
         st.session_state.pergunta_atual = random.choice(perguntas)
         st.session_state.resposta_usuario = None
-        st.session_state.confirmado = False
-        st.experimental_rerun()
+        st.session_state.enviou_resposta = False
+        st.rerun()

@@ -1,1652 +1,1652 @@
 [
-    {
-        "id": 1,
-        "pergunta": "(Responsabilidade civil) Qual é uma característica comum relacionada ao tema responsabilidade civil?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 2,
-        "pergunta": "(Seguro funeral) Qual é uma característica comum relacionada ao tema seguro funeral?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 3,
-        "pergunta": "(Contratos de Seguros) Qual é uma característica comum relacionada ao tema contratos de seguros?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 4,
-        "pergunta": "(Gestão de riscos) Qual é uma característica comum relacionada ao tema gestão de riscos?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 5,
-        "pergunta": "(Acidentes pessoais) Qual é uma característica comum relacionada ao tema acidentes pessoais?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 6,
-        "pergunta": "(Planejamento de seguros) Qual é uma característica comum relacionada ao tema planejamento de seguros?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 7,
-        "pergunta": "(CNSP e SUSEP) Qual é uma característica comum relacionada ao tema cnsp e susep?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 8,
-        "pergunta": "(Cosseguro e Resseguro) Qual é uma característica comum relacionada ao tema cosseguro e resseguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 9,
-        "pergunta": "(Seguro automóvel) Qual é uma característica comum relacionada ao tema seguro automóvel?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 10,
-        "pergunta": "(Prêmio e Sinistro) Qual é uma característica comum relacionada ao tema prêmio e sinistro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 11,
-        "pergunta": "(Seguro automóvel) Qual é uma característica comum relacionada ao tema seguro automóvel?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 12,
-        "pergunta": "(Planejamento de seguros) Qual é uma característica comum relacionada ao tema planejamento de seguros?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 13,
-        "pergunta": "(Carência e Franquia) Qual é uma característica comum relacionada ao tema carência e franquia?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 14,
-        "pergunta": "(Cobertura e Indenização) Qual é uma característica comum relacionada ao tema cobertura e indenização?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 15,
-        "pergunta": "(Contratos de Seguros) Qual é uma característica comum relacionada ao tema contratos de seguros?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 16,
-        "pergunta": "(Seguro residencial) Qual é uma característica comum relacionada ao tema seguro residencial?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 17,
-        "pergunta": "(Gestão de riscos) Qual é uma característica comum relacionada ao tema gestão de riscos?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 18,
-        "pergunta": "(CNSP e SUSEP) Qual é uma característica comum relacionada ao tema cnsp e susep?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 19,
-        "pergunta": "(Seguro automóvel) Qual é uma característica comum relacionada ao tema seguro automóvel?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 20,
-        "pergunta": "(Cobertura e Indenização) Qual é uma característica comum relacionada ao tema cobertura e indenização?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 21,
-        "pergunta": "(Cobertura e Indenização) Qual é uma característica comum relacionada ao tema cobertura e indenização?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 22,
-        "pergunta": "(Prêmio e Sinistro) Qual é uma característica comum relacionada ao tema prêmio e sinistro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 23,
-        "pergunta": "(Acidentes pessoais) Qual é uma característica comum relacionada ao tema acidentes pessoais?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 24,
-        "pergunta": "(Carência e Franquia) Qual é uma característica comum relacionada ao tema carência e franquia?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 25,
-        "pergunta": "(Prêmio e Sinistro) Qual é uma característica comum relacionada ao tema prêmio e sinistro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 26,
-        "pergunta": "(Cosseguro e Resseguro) Qual é uma característica comum relacionada ao tema cosseguro e resseguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 27,
-        "pergunta": "(Seguro automóvel) Qual é uma característica comum relacionada ao tema seguro automóvel?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 28,
-        "pergunta": "(Seguro residencial) Qual é uma característica comum relacionada ao tema seguro residencial?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 29,
-        "pergunta": "(Acidentes pessoais) Qual é uma característica comum relacionada ao tema acidentes pessoais?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 30,
-        "pergunta": "(Seguro rural) Qual é uma característica comum relacionada ao tema seguro rural?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 31,
-        "pergunta": "(Fundamentos de Seguro) Qual é uma característica comum relacionada ao tema fundamentos de seguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 32,
-        "pergunta": "(Beneficiário) Qual é uma característica comum relacionada ao tema beneficiário?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 33,
-        "pergunta": "(Contratos de Seguros) Qual é uma característica comum relacionada ao tema contratos de seguros?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 34,
-        "pergunta": "(Seguro viagem) Qual é uma característica comum relacionada ao tema seguro viagem?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 35,
-        "pergunta": "(Seguro rural) Qual é uma característica comum relacionada ao tema seguro rural?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 36,
-        "pergunta": "(Cosseguro e Resseguro) Qual é uma característica comum relacionada ao tema cosseguro e resseguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 37,
-        "pergunta": "(Seguro rural) Qual é uma característica comum relacionada ao tema seguro rural?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 38,
-        "pergunta": "(Acidentes pessoais) Qual é uma característica comum relacionada ao tema acidentes pessoais?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 39,
-        "pergunta": "(Seguro residencial) Qual é uma característica comum relacionada ao tema seguro residencial?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 40,
-        "pergunta": "(Seguro funeral) Qual é uma característica comum relacionada ao tema seguro funeral?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 41,
-        "pergunta": "(Contratos de Seguros) Qual é uma característica comum relacionada ao tema contratos de seguros?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 42,
-        "pergunta": "(Seguro de vida) Qual é uma característica comum relacionada ao tema seguro de vida?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 43,
-        "pergunta": "(Aspectos legais) Qual é uma característica comum relacionada ao tema aspectos legais?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 44,
-        "pergunta": "(Responsabilidade civil) Qual é uma característica comum relacionada ao tema responsabilidade civil?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 45,
-        "pergunta": "(Seguro residencial) Qual é uma característica comum relacionada ao tema seguro residencial?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 46,
-        "pergunta": "(Cobertura e Indenização) Qual é uma característica comum relacionada ao tema cobertura e indenização?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 47,
-        "pergunta": "(Seguro viagem) Qual é uma característica comum relacionada ao tema seguro viagem?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 48,
-        "pergunta": "(Carência e Franquia) Qual é uma característica comum relacionada ao tema carência e franquia?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 49,
-        "pergunta": "(Cosseguro e Resseguro) Qual é uma característica comum relacionada ao tema cosseguro e resseguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 50,
-        "pergunta": "(Gestão de riscos) Qual é uma característica comum relacionada ao tema gestão de riscos?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 51,
-        "pergunta": "(Seguro automóvel) Qual é uma característica comum relacionada ao tema seguro automóvel?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 52,
-        "pergunta": "(Prêmio e Sinistro) Qual é uma característica comum relacionada ao tema prêmio e sinistro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 53,
-        "pergunta": "(Seguro automóvel) Qual é uma característica comum relacionada ao tema seguro automóvel?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 54,
-        "pergunta": "(Cosseguro e Resseguro) Qual é uma característica comum relacionada ao tema cosseguro e resseguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 55,
-        "pergunta": "(Seguro viagem) Qual é uma característica comum relacionada ao tema seguro viagem?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 56,
-        "pergunta": "(Acidentes pessoais) Qual é uma característica comum relacionada ao tema acidentes pessoais?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 57,
-        "pergunta": "(Responsabilidade civil) Qual é uma característica comum relacionada ao tema responsabilidade civil?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 58,
-        "pergunta": "(Cosseguro e Resseguro) Qual é uma característica comum relacionada ao tema cosseguro e resseguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 59,
-        "pergunta": "(Beneficiário) Qual é uma característica comum relacionada ao tema beneficiário?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 60,
-        "pergunta": "(Cobertura e Indenização) Qual é uma característica comum relacionada ao tema cobertura e indenização?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 61,
-        "pergunta": "(Seguro rural) Qual é uma característica comum relacionada ao tema seguro rural?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 62,
-        "pergunta": "(Cobertura e Indenização) Qual é uma característica comum relacionada ao tema cobertura e indenização?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 63,
-        "pergunta": "(Fundamentos de Seguro) Qual é uma característica comum relacionada ao tema fundamentos de seguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 64,
-        "pergunta": "(Gestão de riscos) Qual é uma característica comum relacionada ao tema gestão de riscos?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 65,
-        "pergunta": "(Cosseguro e Resseguro) Qual é uma característica comum relacionada ao tema cosseguro e resseguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 66,
-        "pergunta": "(Seguro residencial) Qual é uma característica comum relacionada ao tema seguro residencial?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 67,
-        "pergunta": "(Seguro automóvel) Qual é uma característica comum relacionada ao tema seguro automóvel?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 68,
-        "pergunta": "(Carência e Franquia) Qual é uma característica comum relacionada ao tema carência e franquia?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 69,
-        "pergunta": "(Fundamentos de Seguro) Qual é uma característica comum relacionada ao tema fundamentos de seguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 70,
-        "pergunta": "(Beneficiário) Qual é uma característica comum relacionada ao tema beneficiário?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 71,
-        "pergunta": "(Responsabilidade civil) Qual é uma característica comum relacionada ao tema responsabilidade civil?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 72,
-        "pergunta": "(Cosseguro e Resseguro) Qual é uma característica comum relacionada ao tema cosseguro e resseguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 73,
-        "pergunta": "(Responsabilidade civil) Qual é uma característica comum relacionada ao tema responsabilidade civil?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 74,
-        "pergunta": "(Seguro automóvel) Qual é uma característica comum relacionada ao tema seguro automóvel?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 75,
-        "pergunta": "(Seguro viagem) Qual é uma característica comum relacionada ao tema seguro viagem?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 76,
-        "pergunta": "(Contratos de Seguros) Qual é uma característica comum relacionada ao tema contratos de seguros?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 77,
-        "pergunta": "(Prêmio e Sinistro) Qual é uma característica comum relacionada ao tema prêmio e sinistro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 78,
-        "pergunta": "(Fundamentos de Seguro) Qual é uma característica comum relacionada ao tema fundamentos de seguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 79,
-        "pergunta": "(Responsabilidade civil) Qual é uma característica comum relacionada ao tema responsabilidade civil?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 80,
-        "pergunta": "(Seguro viagem) Qual é uma característica comum relacionada ao tema seguro viagem?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 81,
-        "pergunta": "(Responsabilidade civil) Qual é uma característica comum relacionada ao tema responsabilidade civil?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 82,
-        "pergunta": "(Acidentes pessoais) Qual é uma característica comum relacionada ao tema acidentes pessoais?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 83,
-        "pergunta": "(Seguro viagem) Qual é uma característica comum relacionada ao tema seguro viagem?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 84,
-        "pergunta": "(Seguro viagem) Qual é uma característica comum relacionada ao tema seguro viagem?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 85,
-        "pergunta": "(Responsabilidade civil) Qual é uma característica comum relacionada ao tema responsabilidade civil?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 86,
-        "pergunta": "(Seguro de vida) Qual é uma característica comum relacionada ao tema seguro de vida?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 87,
-        "pergunta": "(Fundamentos de Seguro) Qual é uma característica comum relacionada ao tema fundamentos de seguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 88,
-        "pergunta": "(Seguro funeral) Qual é uma característica comum relacionada ao tema seguro funeral?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 89,
-        "pergunta": "(Seguro de vida) Qual é uma característica comum relacionada ao tema seguro de vida?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 90,
-        "pergunta": "(Seguro de vida) Qual é uma característica comum relacionada ao tema seguro de vida?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 91,
-        "pergunta": "(Responsabilidade civil) Qual é uma característica comum relacionada ao tema responsabilidade civil?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 92,
-        "pergunta": "(CNSP e SUSEP) Qual é uma característica comum relacionada ao tema cnsp e susep?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 93,
-        "pergunta": "(Seguro rural) Qual é uma característica comum relacionada ao tema seguro rural?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 94,
-        "pergunta": "(Contratos de Seguros) Qual é uma característica comum relacionada ao tema contratos de seguros?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 95,
-        "pergunta": "(Carência e Franquia) Qual é uma característica comum relacionada ao tema carência e franquia?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 96,
-        "pergunta": "(Beneficiário) Qual é uma característica comum relacionada ao tema beneficiário?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 97,
-        "pergunta": "(Planejamento de seguros) Qual é uma característica comum relacionada ao tema planejamento de seguros?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 98,
-        "pergunta": "(Fundamentos de Seguro) Qual é uma característica comum relacionada ao tema fundamentos de seguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 99,
-        "pergunta": "(Carência e Franquia) Qual é uma característica comum relacionada ao tema carência e franquia?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 100,
-        "pergunta": "(Seguro residencial) Qual é uma característica comum relacionada ao tema seguro residencial?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 101,
-        "pergunta": "(Seguro de vida) Qual é uma característica comum relacionada ao tema seguro de vida?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 102,
-        "pergunta": "(Seguro residencial) Qual é uma característica comum relacionada ao tema seguro residencial?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 103,
-        "pergunta": "(Responsabilidade civil) Qual é uma característica comum relacionada ao tema responsabilidade civil?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 104,
-        "pergunta": "(Cobertura e Indenização) Qual é uma característica comum relacionada ao tema cobertura e indenização?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 105,
-        "pergunta": "(Seguro rural) Qual é uma característica comum relacionada ao tema seguro rural?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 106,
-        "pergunta": "(Carência e Franquia) Qual é uma característica comum relacionada ao tema carência e franquia?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 107,
-        "pergunta": "(Seguro residencial) Qual é uma característica comum relacionada ao tema seguro residencial?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 108,
-        "pergunta": "(Fundamentos de Seguro) Qual é uma característica comum relacionada ao tema fundamentos de seguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 109,
-        "pergunta": "(Seguro viagem) Qual é uma característica comum relacionada ao tema seguro viagem?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 110,
-        "pergunta": "(Carência e Franquia) Qual é uma característica comum relacionada ao tema carência e franquia?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 111,
-        "pergunta": "(Seguro de vida) Qual é uma característica comum relacionada ao tema seguro de vida?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 112,
-        "pergunta": "(Aspectos legais) Qual é uma característica comum relacionada ao tema aspectos legais?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 113,
-        "pergunta": "(Seguro educacional) Qual é uma característica comum relacionada ao tema seguro educacional?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 114,
-        "pergunta": "(Seguro funeral) Qual é uma característica comum relacionada ao tema seguro funeral?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 115,
-        "pergunta": "(Seguro rural) Qual é uma característica comum relacionada ao tema seguro rural?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 116,
-        "pergunta": "(Seguro educacional) Qual é uma característica comum relacionada ao tema seguro educacional?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 117,
-        "pergunta": "(Responsabilidade civil) Qual é uma característica comum relacionada ao tema responsabilidade civil?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 118,
-        "pergunta": "(Cobertura e Indenização) Qual é uma característica comum relacionada ao tema cobertura e indenização?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 119,
-        "pergunta": "(CNSP e SUSEP) Qual é uma característica comum relacionada ao tema cnsp e susep?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 120,
-        "pergunta": "(CNSP e SUSEP) Qual é uma característica comum relacionada ao tema cnsp e susep?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 121,
-        "pergunta": "(Seguro automóvel) Qual é uma característica comum relacionada ao tema seguro automóvel?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 122,
-        "pergunta": "(Fundamentos de Seguro) Qual é uma característica comum relacionada ao tema fundamentos de seguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 123,
-        "pergunta": "(Responsabilidade civil) Qual é uma característica comum relacionada ao tema responsabilidade civil?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 124,
-        "pergunta": "(Fundamentos de Seguro) Qual é uma característica comum relacionada ao tema fundamentos de seguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 125,
-        "pergunta": "(Carência e Franquia) Qual é uma característica comum relacionada ao tema carência e franquia?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 126,
-        "pergunta": "(Seguro rural) Qual é uma característica comum relacionada ao tema seguro rural?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 127,
-        "pergunta": "(Gestão de riscos) Qual é uma característica comum relacionada ao tema gestão de riscos?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 128,
-        "pergunta": "(Seguro funeral) Qual é uma característica comum relacionada ao tema seguro funeral?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 129,
-        "pergunta": "(Seguro funeral) Qual é uma característica comum relacionada ao tema seguro funeral?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 130,
-        "pergunta": "(Cobertura e Indenização) Qual é uma característica comum relacionada ao tema cobertura e indenização?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 131,
-        "pergunta": "(Seguro viagem) Qual é uma característica comum relacionada ao tema seguro viagem?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 132,
-        "pergunta": "(Aspectos legais) Qual é uma característica comum relacionada ao tema aspectos legais?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 133,
-        "pergunta": "(Seguro viagem) Qual é uma característica comum relacionada ao tema seguro viagem?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 134,
-        "pergunta": "(Fundamentos de Seguro) Qual é uma característica comum relacionada ao tema fundamentos de seguro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 135,
-        "pergunta": "(Seguro viagem) Qual é uma característica comum relacionada ao tema seguro viagem?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 136,
-        "pergunta": "(Seguro viagem) Qual é uma característica comum relacionada ao tema seguro viagem?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 137,
-        "pergunta": "(Beneficiário) Qual é uma característica comum relacionada ao tema beneficiário?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 138,
-        "pergunta": "(Acidentes pessoais) Qual é uma característica comum relacionada ao tema acidentes pessoais?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 139,
-        "pergunta": "(Acidentes pessoais) Qual é uma característica comum relacionada ao tema acidentes pessoais?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 140,
-        "pergunta": "(Acidentes pessoais) Qual é uma característica comum relacionada ao tema acidentes pessoais?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 141,
-        "pergunta": "(Planejamento de seguros) Qual é uma característica comum relacionada ao tema planejamento de seguros?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 142,
-        "pergunta": "(Seguro educacional) Qual é uma característica comum relacionada ao tema seguro educacional?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 143,
-        "pergunta": "(Seguro funeral) Qual é uma característica comum relacionada ao tema seguro funeral?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 144,
-        "pergunta": "(Planejamento de seguros) Qual é uma característica comum relacionada ao tema planejamento de seguros?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 145,
-        "pergunta": "(Gestão de riscos) Qual é uma característica comum relacionada ao tema gestão de riscos?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 146,
-        "pergunta": "(Seguro funeral) Qual é uma característica comum relacionada ao tema seguro funeral?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 147,
-        "pergunta": "(Seguro de vida) Qual é uma característica comum relacionada ao tema seguro de vida?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 148,
-        "pergunta": "(Seguro rural) Qual é uma característica comum relacionada ao tema seguro rural?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 149,
-        "pergunta": "(Seguro viagem) Qual é uma característica comum relacionada ao tema seguro viagem?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    },
-    {
-        "id": 150,
-        "pergunta": "(Prêmio e Sinistro) Qual é uma característica comum relacionada ao tema prêmio e sinistro?",
-        "alternativas": [
-            "A) Representa uma forma de proteção financeira contra perdas inesperadas.",
-            "B) É uma obrigação contratual de curto prazo entre seguradora e corretora.",
-            "C) Determina o valor de mercado do bem segurado de forma definitiva.",
-            "D) Está vinculada exclusivamente a contratos previdenciários estatais."
-        ],
-        "resposta_correta": "A"
-    }
+  {
+    "id": 1,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 2,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 6,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 7,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 8,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 12,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 13,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 14,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 15,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 16,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 17,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 18,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 19,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 20,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 21,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 22,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 23,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 24,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 25,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 26,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 27,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 28,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 29,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 30,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 31,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 32,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 33,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 34,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 35,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 36,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 37,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 38,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 39,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 40,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 41,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 42,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 43,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 44,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 45,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 46,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 47,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 48,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 49,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 50,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 51,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 52,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 53,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 54,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 55,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 56,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 57,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 58,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 59,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 60,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 62,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 63,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 65,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 67,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 69,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 71,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 72,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 73,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 74,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 75,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 76,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 77,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 79,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 80,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 81,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 82,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 83,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 84,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 85,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 87,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 88,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 89,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 90,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 91,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 92,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 93,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 94,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 95,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 96,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 98,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 99,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 101,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 102,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 103,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 107,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 108,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 109,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 110,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 111,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 112,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 113,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 114,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 118,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 119,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 120,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 121,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 122,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 123,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 124,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 125,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 126,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 127,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 128,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 129,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 130,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 131,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 132,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 133,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 134,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 135,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 136,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 137,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 138,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 139,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 140,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 141,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 142,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 143,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 144,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 145,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 146,
+    "pergunta": "(Prêmios e Sinistros) Qual é o conceito de prêmio no contrato de seguro?",
+    "alternativas": [
+      "A) Valor recebido pelo segurado após o término do contrato.",
+      "B) Valor que a seguradora paga ao corretor de seguros.",
+      "C) Quantia paga pelo segurado à seguradora para garantir a cobertura.",
+      "D) Multa paga pela seguradora em caso de inadimplência."
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 147,
+    "pergunta": "(Prêmios e Sinistros) O que caracteriza um sinistro no contrato de seguro?",
+    "alternativas": [
+      "A) O vencimento do contrato de seguro.",
+      "B) A ocorrência do evento previsto e coberto pelo seguro.",
+      "C) A ausência de pagamento do prêmio pelo segurado.",
+      "D) A atualização da apólice com novas cláusulas."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 148,
+    "pergunta": "(Previdência Privada) Qual é o principal benefício fiscal do PGBL?",
+    "alternativas": [
+      "A) Isenção total de imposto de renda na fase de resgate.",
+      "B) Dedução de até 12% da renda bruta tributável na declaração completa.",
+      "C) Tributo fixo de 15% ao final do contrato.",
+      "D) Possibilidade de receber o benefício mesmo sem contribuição."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 149,
+    "pergunta": "(Previdência Privada) Qual é a característica do VGBL em relação ao imposto de renda?",
+    "alternativas": [
+      "A) Permite deduzir até 20% da renda bruta na declaração completa.",
+      "B) Incide IR apenas sobre os rendimentos no momento do resgate.",
+      "C) Tem isenção de IR independentemente do valor aplicado.",
+      "D) Incide IR exclusivamente na fonte no início da aplicação."
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 150,
+    "pergunta": "(Resseguro) Qual é a principal finalidade do resseguro?",
+    "alternativas": [
+      "A) Garantir liquidez ao mercado financeiro.",
+      "B) Compartilhar o risco assumido por uma seguradora com outra entidade.",
+      "C) Proteger o segurado de fraudes contratuais.",
+      "D) Substituir o seguro tradicional em contratos internacionais."
+    ],
+    "resposta_correta": "B"
+  }
 ]

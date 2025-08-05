@@ -1,74 +1,68 @@
-
 import streamlit as st
 import json
 import os
 
-QUESTIONS_FILE = "questions.json"
+ARQUIVO_DE_PERGUNTAS = "questions.json"
 
-def load_questions():
-    if os.path.exists(QUESTIONS_FILE):
-        with open(QUESTIONS_FILE, "r", encoding="utf-8") as f:
+def carregar_perguntas():
+    if os.path.exists(ARQUIVO_DE_PERGUNTAS):
+        with open(ARQUIVO_DE_PERGUNTAS, "r", encoding="utf-8") as f:
             return json.load(f)
     return []
 
-def save_questions(questions):
-    with open(QUESTIONS_FILE, "w", encoding="utf-8") as f:
-        json.dump(questions, f, ensure_ascii=False, indent=2)
+def salvar_perguntas(questoes):
+    with open(ARQUIVO_DE_PERGUNTAS, "w", encoding="utf-8") as f:
+        json.dump(questoes, f, ensure_ascii=False, indent=4)
 
-st.title("Anki Quiz - Web para iPhone 📱")
+def estilo_alternativa(alternativa, selecionada, correta):
+    if selecionada == alternativa and selecionada == correta:
+        return f":green[{alternativa}]"
+    elif selecionada == alternativa and selecionada != correta:
+        return f":red[{alternativa}]"
+    elif alternativa == correta:
+        return f":green[{alternativa}]"
+    else:
+        return alternativa
 
-menu = st.sidebar.radio("Menu", ["Inserir Questões", "Quiz"])
+st.set_page_config(page_title="Anki Quiz – Web para iPhone 📱")
+
+st.title("Anki Quiz – Web para iPhone 📱")
+
+menu = st.sidebar.radio("Menu", ["Inserir Questões", "Responder Quiz"])
+perguntas = carregar_perguntas()
 
 if menu == "Inserir Questões":
     st.header("Adicionar nova questão")
-    question = st.text_area("Pergunta")
-    a = st.text_input("Alternativa A")
-    b = st.text_input("Alternativa B")
-    c = st.text_input("Alternativa C")
-    d = st.text_input("Alternativa D")
-    correct = st.selectbox("Alternativa correta", ["A", "B", "C", "D"])
+    nova_pergunta = st.text_input("Pergunta:")
+    nova_alternativa_a = st.text_input("Alternativa A:")
+    nova_alternativa_b = st.text_input("Alternativa B:")
+    nova_alternativa_c = st.text_input("Alternativa C:")
+    nova_alternativa_d = st.text_input("Alternativa D:")
+    nova_correta = st.selectbox("Letra da alternativa correta:", ["A", "B", "C", "D"])
 
     if st.button("Salvar"):
-        if question and a and b and c and d and correct:
-            questions = load_questions()
-            questions.append({
-                "question": question,
-                "options": [a, b, c, d],
-                "correct": correct
-            })
-            save_questions(questions)
-            st.success("Questão salva com sucesso!")
-        else:
-            st.error("Preencha todos os campos.")
+        nova_questao = {
+            "id": len(perguntas) + 1,
+            "pergunta": nova_pergunta,
+            "alternativas": [
+                f"A) {nova_alternativa_a}",
+                f"B) {nova_alternativa_b}",
+                f"C) {nova_alternativa_c}",
+                f"D) {nova_alternativa_d}",
+            ],
+            "resposta_correta": f"{nova_correta})"
+        }
+        perguntas.append(nova_questao)
+        salvar_perguntas(perguntas)
+        st.success("Questão adicionada com sucesso!")
 
-elif menu == "Quiz":
+elif menu == "Responder Quiz":
     st.header("Responder Quiz")
-    questions = load_questions()
-    if "q_index" not in st.session_state:
-        st.session_state.q_index = 0
-        st.session_state.answered = False
-        st.session_state.selected = None
-
-    if st.session_state.q_index >= len(questions):
-        st.success("Fim do quiz!")
-    else:
-        q = questions[st.session_state.q_index]
-        st.markdown(f"**{q['question']}**")
-        options = q["options"]
-        selected = st.radio("Escolha a alternativa:", ["A", "B", "C", "D"], index=0)
-
-        if st.button("Responder"):
-            st.session_state.answered = True
-            st.session_state.selected = selected
-
-        if st.session_state.answered:
-            correct = q["correct"]
-            if st.session_state.selected == correct:
-                st.markdown(f":blue[✅ Resposta correta: {correct}]")
-            else:
-                st.markdown(f":red[❌ Errado: Você marcou {st.session_state.selected}]")
-                st.markdown(f":blue[✅ Correta: {correct}]")
-            if st.button("Próxima"):
-                st.session_state.q_index += 1
-                st.session_state.answered = False
-                st.session_state.selected = None
+    for pergunta in perguntas:
+        st.markdown(f"**{pergunta['pergunta']}**")
+        resposta = st.radio("Escolha uma alternativa:", pergunta["alternativas"], key=pergunta["id"])
+        if resposta:
+            st.markdown("### Resultado:")
+            for alt in pergunta["alternativas"]:
+                st.markdown(estilo_alternativa(alt, resposta, pergunta["resposta_correta"]))
+            st.markdown("---")

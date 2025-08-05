@@ -1,71 +1,43 @@
 import streamlit as st
 import json
-import os
+import random
 
-ARQUIVO_DE_PERGUNTAS = "questions.json"
+# Carrega o banco de perguntas
+with open("perguntas.json", "r", encoding="utf-8") as f:
+    perguntas = json.load(f)
 
-def carregar_perguntas():
-    if os.path.exists(ARQUIVO_DE_PERGUNTAS):
-        with open(ARQUIVO_DE_PERGUNTAS, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return []
+# Escolhe uma pergunta aleatória
+pergunta = random.choice(perguntas)
 
-def salvar_perguntas(questoes):
-    with open(ARQUIVO_DE_PERGUNTAS, "w", encoding="utf-8") as f:
-        json.dump(questoes, f, ensure_ascii=False, indent=4)
+st.title("Responder Quiz")
 
-def estilo_alternativa(alternativa, resposta_usuario, resposta_correta):
-    if alternativa == resposta_usuario and alternativa == resposta_correta:
-        return f"<span style='color: green;'>{alternativa}</span>"
-    elif alternativa == resposta_usuario and alternativa != resposta_correta:
-        return f"<span style='color: red;'>{alternativa}</span>"
-    elif alternativa == resposta_correta:
-        return f"<span style='color: green;'>{alternativa}</span>"
-    else:
-        return alternativa
+# Exibe a pergunta
+st.write(f"**{pergunta['pergunta']}**")
 
-st.set_page_config(page_title="Anki Quiz – Web para iPhone 📱")
+# Inicializa sessão
+if "resposta_usuario" not in st.session_state:
+    st.session_state.resposta_usuario = None
 
-st.title("Anki Quiz – Web para iPhone 📱")
+# Exibe as alternativas como botões de rádio
+alternativa_escolhida = st.radio("Escolha uma alternativa:", pergunta["alternativas"], index=None)
 
-menu = st.sidebar.radio("Menu", ["Inserir Questões", "Responder Quiz"])
+# Botão para enviar resposta
+if st.button("Confirmar resposta"):
+    st.session_state.resposta_usuario = alternativa_escolhida
 
-perguntas = carregar_perguntas()
+# Exibe o resultado após a escolha
+if st.session_state.resposta_usuario:
+    st.markdown("## Resultado:")
 
-if menu == "Inserir Questões":
-    st.header("Adicionar nova questão")
+    for alt in pergunta["alternativas"]:
+        letra = alt[0]  # A letra da alternativa (A, B, C ou D)
 
-    pergunta = st.text_input("Digite a pergunta:")
-    alternativa_a = st.text_input("Alternativa A")
-    alternativa_b = st.text_input("Alternativa B")
-    alternativa_c = st.text_input("Alternativa C")
-    alternativa_d = st.text_input("Alternativa D")
-    resposta_correta = st.selectbox("Qual é a alternativa correta?", ["A", "B", "C", "D"])
-
-    if st.button("Salvar questão"):
-        nova_questao = {
-            "id": len(perguntas) + 1,
-            "pergunta": pergunta,
-            "alternativas": [
-                f"A) {alternativa_a}",
-                f"B) {alternativa_b}",
-                f"C) {alternativa_c}",
-                f"D) {alternativa_d}"
-            ],
-            "resposta_correta": f"{resposta_correta}) {locals()['alternativa_' + resposta_correta.lower()]}"
-        }
-        perguntas.append(nova_questao)
-        salvar_perguntas(perguntas)
-        st.success("Questão adicionada com sucesso!")
-
-elif menu == "Responder Quiz":
-    st.header("Responder Quiz")
-
-    for pergunta in perguntas:
-        st.markdown(f"**{pergunta['pergunta']}**")
-        resposta = st.radio("Escolha uma alternativa:", pergunta["alternativas"], key=pergunta["id"])
-        if resposta:
-            st.markdown("### Resultado:")
-            for alt in pergunta["alternativas"]:
-                st.markdown(estilo_alternativa(alt, resposta, pergunta["resposta_correta"]), unsafe_allow_html=True)
-            st.markdown("---")
+        if alt == st.session_state.resposta_usuario:
+            if letra == pergunta["resposta_correta"]:
+                st.success(alt)  # Alternativa correta escolhida → verde
+            else:
+                st.error(alt)  # Alternativa incorreta escolhida → vermelha
+        elif letra == pergunta["resposta_correta"]:
+            st.success(alt)  # Exibe a correta mesmo se o usuário errou
+        else:
+            st.write(alt)  # Outras alternativas normais
